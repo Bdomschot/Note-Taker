@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "heroku": "^7.51.0",
     "server": "^1.0.31"
   },
   "keywords": [],
